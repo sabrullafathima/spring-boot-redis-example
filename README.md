@@ -23,7 +23,7 @@ A simple project that demonstrates how to use **Redis caching** in a Spring Boot
 ### How to Run
 
 ### Requirements:
-- Java 21
+- Java 23
 - Maven
 - Docker
 
